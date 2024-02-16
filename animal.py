@@ -5,6 +5,9 @@ def dog():
 def default():
     print("Hello")
 
+def cat():
+    print("Meow")
+
 def main():
     default()
 
